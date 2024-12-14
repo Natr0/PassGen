@@ -2,7 +2,7 @@
 
 **PassGen** is een makkelijke tool om sterke wachtwoorden te maken. Het heeft een modern design en werkt met licht en donker thema.
 
-![PassGen Screenshot](https://via.placeholder.com/800x400?text=PassGen+UI)
+![PassGen Screenshot](https://nasir.nhakimi.nl/cv/v2/assets/img/PassGen.png)
 
 ## Wat kan het?
 
